@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/salon-web/static/css/main.99b51f84.css",
-    "main.js": "/salon-web/static/js/main.ee71e1a5.js",
-    "static/js/453.2ef0f50d.chunk.js": "/salon-web/static/js/453.2ef0f50d.chunk.js",
-    "static/media/grid1.jpg": "/salon-web/static/media/grid1.a1cbb89ef7bfe0925ac4.jpg",
-    "static/media/footer.jpg": "/salon-web/static/media/footer.b80bed3f9610ffed51d0.jpg",
-    "index.html": "/salon-web/index.html",
-    "main.99b51f84.css.map": "/salon-web/static/css/main.99b51f84.css.map",
-    "main.ee71e1a5.js.map": "/salon-web/static/js/main.ee71e1a5.js.map",
-    "453.2ef0f50d.chunk.js.map": "/salon-web/static/js/453.2ef0f50d.chunk.js.map"
+    "main.css": "/react_test1/static/css/main.9163bece.css",
+    "main.js": "/react_test1/static/js/main.91982533.js",
+    "static/js/453.2ef0f50d.chunk.js": "/react_test1/static/js/453.2ef0f50d.chunk.js",
+    "static/media/grid1.jpg": "/react_test1/static/media/grid1.a1cbb89ef7bfe0925ac4.jpg",
+    "static/media/footer.jpg": "/react_test1/static/media/footer.b80bed3f9610ffed51d0.jpg",
+    "index.html": "/react_test1/index.html",
+    "main.9163bece.css.map": "/react_test1/static/css/main.9163bece.css.map",
+    "main.91982533.js.map": "/react_test1/static/js/main.91982533.js.map",
+    "453.2ef0f50d.chunk.js.map": "/react_test1/static/js/453.2ef0f50d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99b51f84.css",
-    "static/js/main.ee71e1a5.js"
+    "static/css/main.9163bece.css",
+    "static/js/main.91982533.js"
   ]
 }
